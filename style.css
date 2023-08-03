@@ -1,0 +1,66 @@
+/*estilo texto HORARIOS*/
+
+.dia-sem, .sab {
+    font-weight: 900;
+    color: rgb(28, 28, 87);
+    font-size:large
+}
+
+.hora-sem, .hora-sab {
+    font-style: italic;
+    color: rgb(28, 28, 87);
+    font-size:small
+}
+
+/*estilo HEADER*/
+.header {
+    background-color: rgb(28, 28, 87);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1%;
+    color: rgb(235, 227, 217);
+}
+
+/*estilo MENU*/
+.texto .menu {
+    background-color: rgb(235, 227, 217);
+    padding: 1%;
+    color: rgb(28, 28, 87); 
+    
+}
+.menu a {
+    text-decoration: none;
+  }
+
+/*estilo MAIN*/
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 35%;
+    
+}
+
+.texto .info{
+    margin-top: 3%;
+}
+
+
+/*estilo FOOTER*/
+.seguinos {
+    background-color: rgb(28, 28, 87);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(235, 227, 217);
+    padding: 10px;
+    margin: auto;
+    text-align: right;
+    
+}
+
+/*estilo AUTOR*/
+.seguinos .autor{
+    text-align:center;
+}
+
+/*estilo FORMULARIO*/
+.formulario{
+    border: 1px solid black; 
+    padding: 20px; 
+  }
